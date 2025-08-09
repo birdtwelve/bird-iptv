@@ -1,0 +1,63 @@
+name: Generate M3U Playlist with Auto-Organization
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-organize:
+    runs-on: ubuntu-22.04
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11' # Ensure Python 3.11 is available
+     
+    - name: Configure Git
+      run: |
+        git config --local user.email "actions@forgejo.plainrock127.xyz"
+        git config --local user.name "IPTV Playlist Bot"
+    
+    - name: Basic Setup
+      run: |
+        echo "Basic setup complete."
+
+    - name: Run Playlist Generation
+      run: |
+        echo "Running playlist generation..."
+        python scripts/generate_playlist.py
+
+    - name: Commit and Push if Changes
+      run: |
+        git add .
+        if ! git diff-index --quiet HEAD; then
+          echo "Changes detected, committing..."
+          
+          # --- NEW STEPS ---
+          # 1. Commit the changes made by this workflow locally first.
+          # This puts the local repository in a clean state for git pull --rebase.
+          CHANNELS=$(grep -c "^#EXTINF" playlist.m3u || echo "0")
+          git commit -m "📺 Workflow generated files: $CHANNELS channels (temp commit for rebase)"
+          
+          # 2. Pull the latest changes from remote and rebase our local commit on top.
+          git pull --rebase origin main 
+          
+          # --- END NEW STEPS ---
+          
+          # Now, push the rebased commit.
+          git push
+          echo "Changes committed successfully"
+        else
+          echo "No changes to commit"
+        fi
+
+    - name: Summary
+      run: |
+        CHANNELS=$(grep -c "^#EXTINF" playlist.m3u || echo "0")
+        echo "=== WORKFLOW COMPLETE ==="
+        echo "✅ Playlist has $CHANNELS channels"
