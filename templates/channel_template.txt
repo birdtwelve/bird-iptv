@@ -1,0 +1,20 @@
+Group = [Category Name - e.g., Sports, News, Movies, Kids]
+Stream name = [Channel Display Name - e.g., ESPN HD, CNN International]
+Logo = [Logo URL - e.g., https://example.com/logo.png]
+EPG id = [EPG Guide ID - e.g., espn.us, cnn.us]
+Stream URL = [Stream URL - e.g., http://your-stream-url-here]
+
+[Leave a blank line between each channel]
+
+Example:
+Group = Sports
+Stream name = ESPN HD
+Logo = https://logos.example.com/espn.png
+EPG id = espn.us
+Stream URL = http://stream.example.com/espn
+
+Group = News  
+Stream name = CNN International
+Logo = https://logos.example.com/cnn.png
+EPG id = cnn.international
+Stream URL = http://stream.example.com/cnn
