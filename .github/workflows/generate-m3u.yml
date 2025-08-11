@@ -20,7 +20,7 @@ jobs:
      
     - name: Configure Git
       run: |
-        git config --local user.email "actions@forgejo.plainrock127.xyz"
+        git config --local user.email "actions@users.noreply.github.com"
         git config --local user.name "IPTV Playlist Bot"
     
     - name: Basic Setup
