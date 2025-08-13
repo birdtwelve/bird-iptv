@@ -180,7 +180,7 @@ Customize processing behavior:
 
 ### **🔗 Your Playlist URL:**
 ```
-https://forgejo.plainrock127.xyz/[your-username]/[repo-name]/raw/branch/main/playlist.m3u
+https://raw.githubusercontent.com/birdtwelve/bird-iptv/refs/heads/main/playlist.m3u
 ```
 
 ## 🚨 **Troubleshooting**
