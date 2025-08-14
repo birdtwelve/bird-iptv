@@ -52,8 +52,8 @@ jobs:
           # Now, push the rebased commit.
           git push
           - uses: actions/checkout@v4
-  with:
-    token: ${{ secrets.ACTIONS_PAT }}
+          with:
+          token: ${{ secrets.ACTIONS_PAT }}
           echo "Changes committed successfully"
         else
           echo "No changes to commit"
