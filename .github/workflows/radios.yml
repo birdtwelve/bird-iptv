@@ -1,0 +1,37 @@
+name: Generate M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Každý den v 5:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate-playlists:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: pip install --no-cache-dir pyradios requests
+
+      - name: Generate world_radio.m3u
+        run: |
+          python3 scripts/radio_country_export.py \
+            --countries "AF,AL,DZ,AD,AO,AG,AR,AM,AU,AT,AZ,BS,BH,BD,BB,BY,BE,BZ,BJ,BT,BO,BA,BW,BR,BN,BG,BF,BI,KH,CM,CA,CV,CF,TD,CL,CN,CO,KM,CD,CG,CR,HR,CU,CY,CZ,DK,DJ,DM,DO,EC,EG,SV,GQ,ER,EE,SZ,ET,FJ,FI,FR,GA,GM,GE,DE,GH,GR,GD,GT,GN,GW,GY,HT,HN,HU,IS,IN,ID,IR,IQ,IE,IL,IT,CI,JM,JP,JO,KZ,KE,KI,KR,KW,KG,LA,LV,LB,LS,LR,LY,LI,LT,LU,MG,MW,MY,MV,ML,MT,MH,MQ,MR,MU,MX,FM,MD,MC,MN,ME,MA,MZ,MM,NA,NP,NL,NZ,NI,NE,NG,MK,NO,OM,PK,PW,PA,PG,PY,PE,PH,PL,PT,QA,RO,RU,RW,KN,LC,VC,WS,SM,ST,SA,SN,RS,SC,SL,SG,SK,SI,SB,SO,ZA,SS,ES,LK,SD,SR,SE,CH,SY,TW,TJ,TZ,TH,TL,TG,TO,TT,TN,TR,TM,UG,UA,AE,GB,US,UY,UZ,VU,VA,VE,VN,YE,ZM,ZW" \
+            --output "world_radio.m3u" -ucag --logo "https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60"
+
+      - name: Generate european_radio.m3u
+        run: |
+          python3 scripts/radio_country_export.py \
+            --countries "AL,AD,AM,AT,AZ,BY,BE,BA,BG,HR,CY,CZ,DK,EE,FI,FR,GE,DE,GR,HU,IS,IE,IT,KZ,XK,LV,LI,LT,LU,MT,MD,MC,ME,NL,MK,NO,PL,PT,RO,RU,SM,RS,SK,SI,ES,SE,CH,TR,UA,GB,VA" \
+            --output "european_radio.m3u" -ucag --logo "https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60"
+
+      - name: Commit and push playlists
+        run: |
+          git config user.name "radiobot"
+          git config user.email "radiobot@users.noreply.github.com"
+          git add *.m3u
+          git commit -m "Update Radio playlists"
+          git push
