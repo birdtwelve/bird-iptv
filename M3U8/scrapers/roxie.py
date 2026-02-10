@@ -16,7 +16,7 @@ CACHE_FILE = Cache("roxie.json", exp=10_800)
 
 HTML_CACHE = Cache("roxie-html.json", exp=19_800)
 
-BASE_URL = "https://roxiestreams.live"
+BASE_URL = "https://roxiestreams.info"
 
 valid_sports = {
     "fighting": "Fighting",
