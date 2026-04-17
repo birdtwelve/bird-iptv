@@ -1,6 +1,6 @@
-## Base Log @ 2026-04-16 21:12 UTC
+## Base Log @ 2026-04-17 05:17 UTC
 
-### ✅ Working Streams: 138<br>❌ Dead Streams: 337
+### ✅ Working Streams: 145<br>❌ Dead Streams: 330
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,7 +9,6 @@
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
-| Pluto TV Space | Connection timed out (000) | `https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | Connection timed out (000) | `https://a1xs.vip/700033` |
