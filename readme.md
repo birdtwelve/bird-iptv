@@ -1,15 +1,12 @@
-## Base Log @ 2026-04-22 10:02 UTC
+## Base Log @ 2026-04-22 15:52 UTC
 
-### ✅ Working Streams: 138<br>❌ Dead Streams: 337
+### ✅ Working Streams: 144<br>❌ Dead Streams: 331
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
-| FilmRise Food | HTTP Error (404) | `https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8` |
-| FilmRise True Crime | HTTP Error (404) | `https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8` |
-| FilmRise Western | HTTP Error (404) | `https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8` |
-| Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
+| FilmRise Mysteries | HTTP Error (404) | `https://jmp2.uk/rok-16722bc43ef05012afa2297def830266.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
@@ -43,7 +40,6 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
-| Vevo '70s | HTTP Error (404) | `https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8` |
 | Window TV | Connection timed out (000) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
 | Ziggo Sport 2 FHD | Connection timed out (000) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | Connection timed out (000) | `https://a1xs.vip/140003` |
