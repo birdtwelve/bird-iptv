@@ -1,10 +1,12 @@
-## Base Log @ 2026-04-30 16:03 UTC
+## Base Log @ 2026-04-30 21:35 UTC
 
-### ✅ Working Streams: 135<br>❌ Dead Streams: 340
+### ✅ Working Streams: 132<br>❌ Dead Streams: 343
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
+| FilmRise Forensic Files | HTTP Error (404) | `https://jmp2.uk/rok-62945e18ab825bfd8b4995d9bd14917b.m3u8` |
+| FilmRise True Crime | HTTP Error (404) | `https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
@@ -38,7 +40,6 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
-| Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
 | Ziggo Sport 2 FHD | Connection timed out (000) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | Connection timed out (000) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | Connection timed out (000) | `https://a1xs.vip/140004` |
