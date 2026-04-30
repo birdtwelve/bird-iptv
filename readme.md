@@ -1,6 +1,6 @@
-## Base Log @ 2026-04-30 10:26 UTC
+## Base Log @ 2026-04-30 16:03 UTC
 
-### ✅ Working Streams: 133<br>❌ Dead Streams: 342
+### ✅ Working Streams: 135<br>❌ Dead Streams: 340
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -38,6 +38,7 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
+| Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
 | Ziggo Sport 2 FHD | Connection timed out (000) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | Connection timed out (000) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | Connection timed out (000) | `https://a1xs.vip/140004` |
