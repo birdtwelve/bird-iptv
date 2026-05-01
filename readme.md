@@ -1,12 +1,10 @@
-## Base Log @ 2026-04-30 21:35 UTC
+## Base Log @ 2026-05-01 05:55 UTC
 
-### ✅ Working Streams: 132<br>❌ Dead Streams: 343
+### ✅ Working Streams: 135<br>❌ Dead Streams: 340
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
-| FilmRise Forensic Files | HTTP Error (404) | `https://jmp2.uk/rok-62945e18ab825bfd8b4995d9bd14917b.m3u8` |
-| FilmRise True Crime | HTTP Error (404) | `https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
