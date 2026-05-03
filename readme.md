@@ -1,13 +1,12 @@
-## Base Log @ 2026-05-03 05:44 UTC
+## Base Log @ 2026-05-03 09:49 UTC
 
-### ✅ Working Streams: 136<br>❌ Dead Streams: 339
+### ✅ Working Streams: 135<br>❌ Dead Streams: 340
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
-| Pluto TV Conspiracy | HTTP Error (500) | `https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
