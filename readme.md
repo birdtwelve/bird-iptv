@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-07 21:32 UTC
+## Base Log @ 2026-05-08 05:17 UTC
 
-### ✅ Working Streams: 121<br>❌ Dead Streams: 354
+### ✅ Working Streams: 122<br>❌ Dead Streams: 353
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -42,7 +42,6 @@
 | Ziggo Sport 3 FHD | Connection timed out (000) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | Connection timed out (000) | `https://a1xs.vip/140004` |
 | Ziggo Sport FHD | Connection timed out (000) | `https://a1xs.vip/140001` |
-| pocket.watch Game-On | HTTP Error (429) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 ---
 #### Base Channels URL
 ```
