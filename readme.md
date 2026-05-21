@@ -1,10 +1,12 @@
-## Base Log @ 2026-05-21 11:47 UTC
+## Base Log @ 2026-05-21 17:15 UTC
 
-### ✅ Working Streams: 129<br>❌ Dead Streams: 346
+### ✅ Working Streams: 123<br>❌ Dead Streams: 352
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
+| DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
+| FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
@@ -40,10 +42,12 @@
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
 | Whiplash Cinema | HTTP Error (404) | `https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8` |
 | Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
+| Window TV | Connection timed out (000) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
 | Ziggo Sport 2 FHD | Connection timed out (000) | `https://a1xs.vip/140002` |
 | Ziggo Sport 3 FHD | Connection timed out (000) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | Connection timed out (000) | `https://a1xs.vip/140004` |
 | Ziggo Sport FHD | Connection timed out (000) | `https://a1xs.vip/140001` |
+| quant | Connection timed out (000) | `https://rhine.webchnl.live/memfs/daad2183-472a-4a6f-ac37-a2934dfccac4.m3u8` |
 | zén!th | Connection timed out (000) | `https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8` |
 ---
 #### Base Channels URL
