@@ -1,6 +1,6 @@
-## Base Log @ 2026-05-26 22:07 UTC
+## Base Log @ 2026-05-27 06:47 UTC
 
-### ✅ Working Streams: 119<br>❌ Dead Streams: 356
+### ✅ Working Streams: 120<br>❌ Dead Streams: 355
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,7 +9,6 @@
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
-| Pluto TV Westerns | HTTP Error (500) | `https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | Connection timed out (000) | `https://a1xs.vip/700033` |
@@ -47,6 +46,7 @@
 | Ziggo Sport 3 FHD | Connection timed out (000) | `https://a1xs.vip/140003` |
 | Ziggo Sport 4 FHD | Connection timed out (000) | `https://a1xs.vip/140004` |
 | Ziggo Sport FHD | Connection timed out (000) | `https://a1xs.vip/140001` |
+| pocket.watch Game-On | HTTP Error (404) | `https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8` |
 | quant | Connection timed out (000) | `https://rhine.webchnl.live/memfs/daad2183-472a-4a6f-ac37-a2934dfccac4.m3u8` |
 | zén!th | Connection timed out (000) | `https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8` |
 ---
