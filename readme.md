@@ -1,12 +1,11 @@
-## Base Log @ 2026-06-01 22:43 UTC
+## Base Log @ 2026-06-02 07:09 UTC
 
-### ✅ Working Streams: 89<br>❌ Dead Streams: 386
+### ✅ Working Streams: 90<br>❌ Dead Streams: 385
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
-| FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | Funny AF | HTTP Error (404) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | More TV Drama | HTTP Error (404) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (404) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
