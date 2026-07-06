@@ -1,6 +1,6 @@
-## Base Log @ 2026-07-06 17:23 UTC
+## Base Log @ 2026-07-06 21:57 UTC
 
-### ✅ Working Streams: 104<br>❌ Dead Streams: 371
+### ✅ Working Streams: 101<br>❌ Dead Streams: 374
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -10,8 +10,8 @@
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
+| Pluto TV Conspiracy | HTTP Error (500) | `https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
-| Pluto TV Food | HTTP Error (500) | `https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | Connection timed out (000) | `https://a1xs.vip/700033` |
