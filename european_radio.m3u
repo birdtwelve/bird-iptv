@@ -6095,6 +6095,8 @@ https://icecast.radiofrance.fr/fip-hifi.aac
 https://icecast.radiofrance.fr/fipmetal-hifi.aac
 #EXTINF:-1 group-title="France" tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png",FR | Fip : Metal
 https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/960px-FIP_logo_2021.svg.png",FR | FIP (hifi + metadata)
+http://radio-metadata.fr:8000/fip
 #EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | FIP (hifi.aac)
 https://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:-1 group-title="France" tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-192.png",FR | FIP (metadata)
@@ -6115,6 +6117,8 @@ http://icecast.radiofrance.fr/fipbordeaux-midfi.mp3?ID=76zqey582k
 https://stream.radiofrance.fr/fipcultes/fipcultes.m3u8?id=radiofranceBose
 #EXTINF:-1 group-title="France" tvg-logo="https://www.radioactu.com/wp-content/uploads/2025/12/fip-cultes-nouvelle-webradio-traverse-generations.webp",FR | Fip Cultes
 https://stream.radiofrance.fr/fipcultes/fipcultes_hifi.m3u8
+#EXTINF:-1 group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/FIP_logo_2021.svg/960px-FIP_logo_2021.svg.png",FR | FIP Cultes (hifi + metadata)
+http://radio-metadata.fr:8000/fipcultes
 #EXTINF:-1 group-title="France" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",FR | FIP Electro
 https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8
 #EXTINF:-1 group-title="France" tvg-logo="https://cdn-profiles.tunein.com/s293089/images/logod.png?t=636966438620000000",FR | Fip Electro
@@ -6923,10 +6927,6 @@ https://streaming.hotmixradio.com/hotmix-rock-en-mp3?provider=radiobrowser
 https://streaming.hotmixradio.com/hotmix-rooftop-vibes-en-mp3?provider=radiobrowser
 #EXTINF:-1 group-title="France" tvg-logo="https://cdn.hotmixradio.com/hotmix-salsa-en-mp3.jpg",FR | Hotmix Salsa
 https://streaming.hotmixradio.com/hotmix-salsa-en-mp3?provider=radiobrowser
-#EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | Hotmix Slow Morning
-https://streaming.hotmixradio.com/hotmix-slow-morning-en-mp3?provider=radiobrowser
-#EXTINF:-1 group-title="France" tvg-logo="https://cdn.hotmixradio.com/hotmix-spain-en-mp3.jpg",FR | Hotmix Spain
-https://streaming.hotmixradio.com/hotmix-spain-en-mp3?provider=radiobrowser
 #EXTINF:-1 group-title="Georgia" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png",GE | Hereti FM
 http://iis.ge:8000/hereti.mp3
 #EXTINF:-1 group-title="Georgia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GE | LF Radio
@@ -14940,6 +14940,8 @@ http://86.94.213.59:8000/;
 http://86.94.213.59:8000/listen.pls
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.omroepbieos.nl%2f",NL | Bie Os Radio
 https://nlpo.stream.vip/stein/mp3-192/nlpo
+#EXTINF:-1 group-title="The Netherlands" tvg-logo="https://www.bigb21.nl/img/logo.png",NL | BigB21
+https://www.bigb21.nl/listen.pls
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://s.regiogroei.cloud/img/brand-logos/resized/logo_bingofm.png",NL | Bingo FM
 https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/bingofm-bb-mp3
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://i0.wp.com/blackwoodfm.com/wp-content/uploads/2020/04/cropped-favicon.png?fit=180%2c180&#038;ssl=1",NL | Blackwwod FM
@@ -15526,6 +15528,8 @@ http://www.hotradiohits.nl/include/stream/hotradiohits.m3u
 https://server-67.stream-server.nl:8400/listen.pls?sid=1
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://www.openstageradio.eu/uploads/openstageradio.eu/1678666345-OSR%20banner%202.jpg",NL | https://www.openstageradio.eu/
 https://server-28.stream-server.nl:8834/stream
+#EXTINF:-1 group-title="The Netherlands" tvg-logo="https://i-turnradio.nl/images/icon-192x192.webp",NL | i-turn Radio
+https://i-turnradio.nl/a128
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2015/11/i-turn-Radio-100x47.jpg",NL | i-turn Radio
 http://live2.i-turnradio.nl/stream4
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",NL | i-turn radio
@@ -16528,10 +16532,6 @@ http://www.radiohollandonline.com/listen.pls
 https://everestcast.live-streams.nl:18015/stream
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",NL | Radio Hulchul
 https://everestcast.live-streams.nl:18010/stream
-#EXTINF:-1 group-title="The Netherlands" tvg-logo="https://jndplayer.nl/assets/img/fallback-music.png",NL | Radio JND
-https://jndplayer.nl/?pl=winamp&c=Radio%20JND%20(HD)
-#EXTINF:-1 group-title="The Netherlands" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",NL | Radio Joe
-https://stream.joe.nl/joe/mp3
 #EXTINF:-1 group-title="Republic Of North Macedonia" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231218_113106430.jpg?alt=media&token=b6f6cb27-4778-460d-b740-0860a30262a7",MK | =KECO=70s ROCK
 http://jfm1.hostingradio.ru:14536/rock70.mp3
 #EXTINF:-1 group-title="Republic Of North Macedonia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",MK | =KECO=ROCK BALLADS
@@ -22582,6 +22582,10 @@ https://murka.amgradio.ru/MurkaFM
 https://maximum.hostingradio.ru/maxmuse96.aacp
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://www.musicaldecadence.ru/conf/img/apple-touch-icon.png",RU | Musical Decadence Radio
 https://stream.musicaldecadence.ru/live
+#EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RU | MusicmaniA Radio
+https://musicsmania.pro/radio/stream
+#EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://github.com/stxlvn/musicbestman/blob/main/frontend/avatar.jpg",RU | MusicmaniA Radio (FLAC)
+https://musicsmania.pro/musicsmania-flac.m3u
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="http://kitap.fm/wp-content/themes/kitap.fm/assets/images/icon/favicon-120.png",RU | Mилли радио Китап
 http://radio.tatmedia.com:8800/kitapfm
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RU | N-Radio 107.9 FM
@@ -23180,10 +23184,6 @@ http://79.120.77.11:8002/rock
 http://79.111.14.76:8002/baroque
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RU | Radio Caprice - Classical Guitar
 http://213.141.131.10:8000/classguitar
-#EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://i.imgur.com/68IszBX.jpg",RU | Radio Caprice - Classical Guitar
-https://nationalanthems.info/al.mp3?PANGEAhttps://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3https://nationalanthems.info/al.mp3
-#EXTINF:-1 group-title="The Russian Federation" tvg-logo="http://radcap.ru/apple-touch-icon.png",RU | Radio Caprice - Classical Piano
-http://79.120.39.202:9069/;
 #EXTINF:-1 group-title="San Marino" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SM | Public Radio of San Marino
 https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8
 #EXTINF:-1 group-title="San Marino" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SM | Radio San Marino
@@ -26094,6 +26094,8 @@ https://radiobot.radioslibres.info/radio/8030/radio.ogg?_=1
 http://stream.radios-arra.fr:8000/radioarrels
 #EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Radio Arte 107.7 FM
 https://relay.stream.enacast-cloud.com:30253/arteradioHD.mp3
+#EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Radio ArtFlamenco
+http://air.radioart.online/hFlamenco.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317
 #EXTINF:-1 group-title="Spain" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs111994g.png&f=1&nofb=1&ipt=3231544952a85d980ee0b548784045ae105a843f489ddd973da34fdd2fe83449&ipo=images",ES | Radio Aspe
 http://streaming.enantena.com:8000/radioaspe128.mp3
 #EXTINF:-1 group-title="Spain" tvg-logo="https://public-rf-upload.minhawebradio.net/249840/logo/ef675b302b1ffea40a3c8d5b28a5b277.png",ES | Radio Ateos de Barcelona
@@ -26334,8 +26336,6 @@ http://radiomalva.ddns.net:8000/rmbc.mp3
 http://radiomalva.ddns.net:8000/rmbc.ogg
 #EXTINF:-1 group-title="Spain" tvg-logo="https://www.radiomanlleu.cat//img/play.ico",ES | Ràdio Manlleu
 https://enacast.com/radiomanlleu/streams/HD
-#EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Radio Marca
-https://sonic.mediatelekom.net/9316/stream
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",SE | . Al quran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | 106 7 Rockklassiker
@@ -29426,6 +29426,10 @@ https://eu9.fastcast4u.com/tunein/eskininadami.pls
 https://anadolu.liderhost.com.tr:10924/stream
 #EXTINF:-1 group-title="Türkiye" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",TR | YILDIZ FM
 https://radyo.yayin.com.tr:5940/
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://yonradyo.com.tr/",TR | Yön Radyo
+https://onlineradiobox.com/tr/ynradyo/?cs=tr.ynradyo&played=1
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://yonradyo.com.tr/wp-content/uploads/2023/10/yon-radyo-1.png",TR | Yön Radyo
+https://stream.radyolarburada.com:8020/yonradyo
 #EXTINF:-1 group-title="Türkiye" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",TR | YOZGAT FM
 https://sslyayin.netyayin.net:10921/
 #EXTINF:-1 group-title="Türkiye" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",TR | اذاعة القرآن الكريم 🇹🇷
@@ -30446,6 +30450,8 @@ https://baytrustradio.radioca.st/stream.m3u
 http://149.255.60.195:8021/stream
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://www.baysideradio.co.uk/upload/design/655b6ec31f4538.80634443.png",GB | Bayside Radio Colwyn Bay
 http://stream2.hippynet.co.uk:8202/;stream
+#EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GB | BBC
+http://bbcmedia.co.uk/
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GB | bbc 1 tv
 http://onj2.andrelouis.com:8000/bbc1
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GB | BBC 1 XTRA
@@ -31936,8 +31942,6 @@ https://media-ice.musicradio.com/HeartWestMidsMP3
 http://ice-sov.musicradio.com/HeartWestWalesMP3
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GB | Heart Wiltshire
 https://media-ssl.musicradio.com/HeartWiltshireMP3
-#EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",GB | Heart Xmas
-http://icecast.thisisdax.com/HeartXmasMP3
 #EXTINF:-1 group-title="The Holy See" tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",VA | Radio Vaticana Belarus
 https://radio.vaticannews.va/stream-be
 #EXTINF:-1 group-title="The Holy See" tvg-logo="https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",VA | Radio Vaticana Bulgaria
