@@ -1,4 +1,4 @@
-## Base Log @ 2026-08-03 16:58 UTC
+## Base Log @ 2026-08-03 21:42 UTC
 
 ### ✅ Working Streams: 101<br>❌ Dead Streams: 374
 
@@ -11,6 +11,7 @@
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
+| Pluto TV Drama | Unknown status (302) | `https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | Connection timed out (000) | `https://a1xs.vip/700033` |
@@ -41,7 +42,6 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
-| Vevo '90s | HTTP Error (404) | `https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8` |
 | Whiplash Cinema | HTTP Error (404) | `https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8` |
 | Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
 | Window TV | Connection timed out (000) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
