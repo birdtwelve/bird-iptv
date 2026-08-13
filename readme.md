@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-13 15:33 UTC
+## Base Log @ 2026-08-13 21:23 UTC
 
-### ✅ Working Streams: 100<br>❌ Dead Streams: 375
+### ✅ Working Streams: 97<br>❌ Dead Streams: 378
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -42,6 +42,8 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
+| Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
+| Vevo R&B | HTTP Error (404) | `https://jmp2.uk/rok-6be3083b8ec2508495684e5087f8f86a.m3u8` |
 | Whiplash Cinema | HTTP Error (404) | `https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8` |
 | Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
 | Window TV | Connection timed out (000) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
