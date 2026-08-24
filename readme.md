@@ -1,15 +1,13 @@
-## Base Log @ 2026-08-24 03:33 UTC
+## Base Log @ 2026-08-24 09:15 UTC
 
-### ✅ Working Streams: 89<br>❌ Dead Streams: 386
+### ✅ Working Streams: 92<br>❌ Dead Streams: 383
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
-| FilmRise Forensic Files | HTTP Error (404) | `https://jmp2.uk/rok-62945e18ab825bfd8b4995d9bd14917b.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
-| FilmRise True Crime | HTTP Error (404) | `https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
 | PBS Genealogy | HTTP Error (404) | `https://jmp2.uk/rok-3ec371d7730f16b07a55ede8a4472261.m3u8` |
