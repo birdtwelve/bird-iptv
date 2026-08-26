@@ -1,10 +1,11 @@
-## Base Log @ 2026-08-26 16:01 UTC
+## Base Log @ 2026-08-26 23:59 UTC
 
-### ✅ Working Streams: 96<br>❌ Dead Streams: 379
+### ✅ Working Streams: 86<br>❌ Dead Streams: 389
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
+| Animation+ | HTTP Error (404) | `https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
@@ -47,6 +48,11 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
+| Vevo Hip-Hop | HTTP Error (404) | `https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8` |
+| Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
+| Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
+| Vevo R&B | HTTP Error (404) | `https://jmp2.uk/rok-6be3083b8ec2508495684e5087f8f86a.m3u8` |
+| Vevo Reggaeton & Trap | HTTP Error (404) | `https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8` |
 | Whiplash Cinema | HTTP Error (404) | `https://haus.webchnl.com/memfs/fc30cd88-f7c3-4b06-b481-810939220ade.m3u8` |
 | Whiplash | HTTP Error (404) | `https://haus.webchnl.com/memfs/fe3e4302-97f6-44b1-b407-db8b59256cde.m3u8` |
 | Window TV | Connection timed out (000) | `https://rhine.webchnl.live/memfs/efa25eb0-b8b1-4b4a-896d-6ed932616fb6.m3u8` |
