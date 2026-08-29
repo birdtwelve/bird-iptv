@@ -1,4 +1,4 @@
-## Base Log @ 2026-08-29 17:49 UTC
+## Base Log @ 2026-08-29 22:46 UTC
 
 ### ✅ Working Streams: 85<br>❌ Dead Streams: 390
 
@@ -48,8 +48,6 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
-| Vevo '70s | HTTP Error (404) | `https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8` |
-| Vevo '80s | HTTP Error (404) | `https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8` |
 | Vevo Hip-Hop | HTTP Error (404) | `https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8` |
 | Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
 | Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
