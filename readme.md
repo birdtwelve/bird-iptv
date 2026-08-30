@@ -1,6 +1,6 @@
-## Base Log @ 2026-08-30 14:00 UTC
+## Base Log @ 2026-08-30 18:11 UTC
 
-### ✅ Working Streams: 88<br>❌ Dead Streams: 387
+### ✅ Working Streams: 86<br>❌ Dead Streams: 389
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,6 +9,7 @@
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
+| FilmRise Western | HTTP Error (404) | `https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
 | PBS Genealogy | HTTP Error (404) | `https://jmp2.uk/rok-3ec371d7730f16b07a55ede8a4472261.m3u8` |
