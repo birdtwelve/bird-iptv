@@ -1,4 +1,4 @@
-## Base Log @ 2026-09-01 00:02 UTC
+## Base Log @ 2026-09-01 07:58 UTC
 
 ### ✅ Working Streams: 85<br>❌ Dead Streams: 390
 
@@ -8,7 +8,6 @@
 | Animation+ | HTTP Error (404) | `https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
-| FilmRise Classic TV | HTTP Error (404) | `https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
@@ -49,6 +48,7 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
+| Vevo Country | HTTP Error (404) | `https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8` |
 | Vevo Hip-Hop | HTTP Error (404) | `https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8` |
 | Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
 | Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
