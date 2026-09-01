@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-01 07:58 UTC
+## Base Log @ 2026-09-01 13:39 UTC
 
-### ✅ Working Streams: 85<br>❌ Dead Streams: 390
+### ✅ Working Streams: 86<br>❌ Dead Streams: 389
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,7 +17,6 @@
 | PBS Travel | HTTP Error (404) | `https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
-| Pluto TV Creature Features | HTTP Error (404) | `https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | Connection timed out (000) | `https://a1xs.vip/700033` |
@@ -48,7 +47,6 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
-| Vevo Country | HTTP Error (404) | `https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8` |
 | Vevo Hip-Hop | HTTP Error (404) | `https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8` |
 | Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
 | Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
