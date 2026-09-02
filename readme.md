@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-02 12:56 UTC
+## Base Log @ 2026-09-02 18:02 UTC
 
-### ✅ Working Streams: 86<br>❌ Dead Streams: 389
+### ✅ Working Streams: 75<br>❌ Dead Streams: 400
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,7 +8,9 @@
 | Animation+ | HTTP Error (404) | `https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
+| FilmRise Creators | HTTP Error (404) | `https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
+| FilmRise Series Gratis | HTTP Error (404) | `https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
 | PBS Genealogy | HTTP Error (404) | `https://jmp2.uk/rok-3ec371d7730f16b07a55ede8a4472261.m3u8` |
@@ -47,6 +49,11 @@
 | Sky Sports Tennis FHD | Connection timed out (000) | `https://a1xs.vip/2000013` |
 | Sky Sports+ FHD | Connection timed out (000) | `https://a1xs.vip/2000012` |
 | Tastemade | Connection timed out (000) | `https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8` |
+| Vevo '70s | HTTP Error (404) | `https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8` |
+| Vevo '80s | HTTP Error (404) | `https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8` |
+| Vevo '90s | HTTP Error (404) | `https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8` |
+| Vevo 2K | HTTP Error (404) | `https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8` |
+| Vevo Country | HTTP Error (404) | `https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8` |
 | Vevo Hip-Hop | HTTP Error (404) | `https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8` |
 | Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
 | Vevo Pop | HTTP Error (404) | `https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8` |
