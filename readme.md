@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-12 22:30 UTC
+## Base Log @ 2026-09-13 07:38 UTC
 
-### ✅ Working Streams: 82<br>❌ Dead Streams: 393
+### ✅ Working Streams: 84<br>❌ Dead Streams: 391
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,7 +8,6 @@
 | Animation+ | HTTP Error (404) | `https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
-| FilmRise Mysteries | HTTP Error (404) | `https://jmp2.uk/rok-16722bc43ef05012afa2297def830266.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
@@ -16,7 +15,7 @@
 | PBS Nature | HTTP Error (404) | `https://jmp2.uk/rok-32fa723f285fc238ae786634f051f972.m3u8` |
 | PBS Retro | HTTP Error (404) | `https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8` |
 | PBS Travel | HTTP Error (404) | `https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8` |
-| POP UP | HTTP Error (429) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
+| POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
