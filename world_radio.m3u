@@ -733,6 +733,8 @@ https://radio02.ferozo.com/proxy/ra02001342?mp=/stream
 https://stm.livecastradio.com:7010/
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://radioarg.net/storage/radios/23906/65869/conversions/dFdZ74I2yCnBho4USiMECmf4js3oK0-metaY2FtcGVvbmVzLXJhZGlvLnBuZw==--lg.webp",AR | Campeones Radio
 https://01.solumedia.com.ar:7193/stream
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.eduneu.eu/logo_radio_amen.png",AR | Canciones Son Amores
+https://radio.eduneu.eu:8050/radio.mp3
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",AR | Cantata y Puentes
 https://sc.host-live.com:8140/stream
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://radioarg.net/storage/radios/21476/58141/conversions/m0g3zonQQDjzBQLoLDd9XmygqpAA0y-metaY2hhY2FyZXJlYW5kby5wbmc=--lg.webp",AR | Chacarereando Radio
@@ -2189,8 +2191,6 @@ https://cdn.instream.audio/:9051/stream
 https://streaming.radiosenlinea.com.ar:10934/
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/cropped-favicon-180x180.png",AR | Radio del Plata
 https://streaming01.shockmedia.com.ar:10217/stream
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://amdelplata.com/wp-content/uploads/2026/05/cropped-cropped-logo-nuevo-radio-del-plata-2-1.png",AR | Radio del Plata AM1030
-https://www.youtube.com/@DelPlataAM1030/live
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://radioarg.net/storage/radios/27363/83086/conversions/hDT0sNAMBu2HpauaJlHCX3RctdKirR-metaZGVsLXBsYXRhLXR1Y3VtYW4tOTM5LWZtLnBuZw==--lg.webp",AR | Radio Del Plata Tucumán 93.9 FM
 https://streaming.tucumanradio.com.ar:7066/
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",AR | Radio Del Puerto 92.1. Barranqueras Chaco. Version 2
@@ -2449,6 +2449,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aa
 https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://radioarg.net/storage/radios/7990/10112/conversions/mitre-mendoza-lg.webp",AR | Radio Mitre Mendoza
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM1003_56AAC.aac
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://radiomitrepatagonia.com/sitepad-data/uploads/2023/07/Disen%CC%83o-sin-ti%CC%81tulo-1.png",AR | Radio Mitre Patagonia - FM 90.5
+https://sc.host-live.com:10810/stream
 #EXTINF:-1 group-title="Armenia" tvg-logo="https://armenianbiblestudy.com/wp-content/uploads/2021/07/ABS-Logo.png",AM | Armenian Bible Study Radio
 https://ssl.nexuscast.com:8082/stream?type=http&nocache=30722
 #EXTINF:-1 group-title="Armenia" tvg-logo="http://bashde.org/favicon.ico",AM | Armenian Christian Radio - Bashde Radio
@@ -4577,8 +4579,6 @@ http://stream.erf.at:8000/erfplus_192
 https://secureonair.krone.at/eurodance.aac
 #EXTINF:-1 group-title="Austria" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",AT | FFH 80ER
 https://mp3.ffh.de/ffhchannels/hq80er.mp3
-#EXTINF:-1 group-title="Austria" tvg-logo="https://www.ffh.de/musik/webradio/11-ffh-die-80er-das-80er-hits-radio-von-ndw-bis-pop.html",AT | ffh die 80er
-https://www.ffh.de/musik/webradio/11-ffh-die-80er-das-80er-hits-radio-von-ndw-bis-pop.html
 #EXTINF:-1 group-title="Austria" tvg-logo="https://www.flash90s.at/images/logo.png",AT | Flash90s
 https://stream.flash90s.at/flash90s/mp3-192/
 #EXTINF:-1 group-title="Austria" tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",AT | FM4 | ORF
@@ -5101,8 +5101,10 @@ http://85.132.78.122:3344/now
 https://icecast.livetv.az/mediafm
 #EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",AZ | Media fm jazz
 http://icecast.livetv.az/mediajazz
-#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",AZ | Media fm mugam
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://mediafm.az/wp-content/uploads/2026/02/Media_MugamLogo309x309.png",AZ | Media FM Mugam
 http://icecast.livetv.az/mediamugam
+#EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://mediafm.az/wp-content/uploads/2026/03/Media_Reax_309x309.png",AZ | Media FM Relax
+http://icecast.livetv.az/mediarelax
 #EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://radio.ntv.az/images/logo.png?v=2",AZ | Naxçıvan Radiosu
 http://s33.myradiostream.com:12782/listen.mp3
 #EXTINF:-1 group-title="Azerbaijan" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",AZ | NAZ RADIO
@@ -5833,8 +5835,6 @@ https://stream.rcs.revma.com/urds0v43ehuvv
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",BE | Nostalgie Italia
 https://stream.rcs.revma.com/81ta7143ehuvv
-#EXTINF:-1 group-title="Belgium" tvg-logo="https://nostalgie.be",BE | Nostalgie Love Belgique
-http://streamingp.shoutcast.com/NostalgieLove-aac
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",BE | Nostalgie Love1
 https://stream.rcs.revma.com/53zabb43ehuvv
 #EXTINF:-1 group-title="Belgium" tvg-logo="https://uk.radio.net/300/nostalgiebenewwave.png?version=1f972569565aa614589625271462bc2f",BE | Nostalgie New Wave
@@ -8879,6 +8879,8 @@ http://31.13.223.148:8000/fmplus.ogg
 http://31.13.223.148:8000/1_rock.mp3
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://i.ibb.co/TM3LMLN9/wp.png",BG | ALMA MATER
 http://a1.vizitec.com:8000/almamater
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://i.ibb.co/TM3LMLN9/wp.png",BG | Alma Mater
+https://a1.vizitec.com:8001/almamater
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="http://arhea.org/favicon.ico",BG | ARHEA ORG
 http://stream.zeno.fm/na6nbx6qqwzuv
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://www.avtoradio.bg/ar_logo.f88b409f.png",BG | Avto Radio
@@ -9423,6 +9425,8 @@ http://193.108.24.6:8000/zrock
 http://79.98.108.170:8092/;
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_103406805.jpg?alt=media&token=165eced7-c0cf-4900-bbdd-bc3a226acde9",BG | zig zag
 https://radyo.yayin.com.tr:4474/stream
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",BG | ZROCK
+https://zrock.bg/
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://avtoradio.bg/ar_logo.f88b409f.png",BG | Авто Радио
 http://stream80.metacast.eu/avtoradiohi.aac
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",BG | Авторадио
@@ -13751,6 +13755,8 @@ http://live.sfrmt.com:85/live/gbdt.m3u8
 https://lhttp-hw.qtfm.cn/live/5021453/64k.mp3
 #EXTINF:-1 group-title="China" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CN | 他她说：EP.3 读本书吧《百岁人生》
 https://media.xyzcdn.net/nnkLT7Qx1QNOjB362KOst5vwjYzl.mp3
+#EXTINF:-1 group-title="China" tvg-logo="http://pic.qingting.fm/2017/1018/20171018100108.jpeg",CN | 仙桃综合广播
+https://lhttp-hw.qtfm.cn/live/20211562/64k.mp3
 #EXTINF:-1 group-title="China" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CN | 仪征人民广播电台
 https://lhttp.qingting.fm/live/15318182/64k.mp3
 #EXTINF:-1 group-title="China" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CN | 任丘人民广播电台
@@ -14635,8 +14641,6 @@ https://lhttp.qingting.fm/live/5004/64k.mp3
 https://lhttp.qingting.fm/live/21265/64k.mp3
 #EXTINF:-1 group-title="China" tvg-logo="https://pic.qtfm.cn/2021/0315/20210315012328.png",CN | 富顺综合广播
 https://lhttp-hw.qtfm.cn/live/5022355/64k.mp3
-#EXTINF:-1 group-title="China" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CN | 寒亭人民广播电台
-https://lhttp.qingting.fm/live/4865/64k.mp3
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",CO | LOVE FM: All you need is Love / Amor en cada canción
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CO | Radio Tiempo Cali 89.5 FM
@@ -16993,6 +16997,8 @@ https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
 https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
 #EXTINF:-1 group-title="Czechia" tvg-logo="https://radia.cz/static/favicon.ico",CZ | ABradio Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
+#EXTINF:-1 group-title="Czechia" tvg-logo="https://airevival.eu/radio-icon-512.png",CZ | AI REVIVAL Radio
+https://stream.airevival.eu/radio.mp3
 #EXTINF:-1 group-title="Czechia" tvg-logo="https://astraradio.cz/favicon.png",CZ | Astra Radio
 https://icecast.astraradio.cz/192
 #EXTINF:-1 group-title="Czechia" tvg-logo="https://bikersradiodoupe.cz/favicon.png",CZ | BIKERS RADIO DOUPE
@@ -20641,8 +20647,6 @@ http://radio.dogmazic.net:8000/stream.mp3
 https://stream.chantefrance.com/Chante_France.aac
 #EXTINF:-1 group-title="France" tvg-logo="http://www.droogies.org/css/radio-page/img/logo.png",FR | Droogies
 http://www.droogies.org:8000/stream
-#EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | drqance culture
-https://www.radio-en-ligne.fr/france-culture
 #EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | dubsideradio
 https://puma.streemlion.com:5505/stream
 #EXTINF:-1 group-title="France" tvg-logo="https://www.dubsideradio.com/img-structure-site/banniere-dubsideradio.jpg",FR | Dubsideradio
@@ -20999,6 +21003,8 @@ https://play.radioking.io/fm80funkymusic/523739
 http://stream.radios-arra.fr:8000/fmevangile66.m3u
 #EXTINF:-1 group-title="France" tvg-logo="https://static.wixstatic.com/media/a5ad8a_939ac18665c14249bff6512b85ba3fb2%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/a5ad8a_939ac18665c14249bff6512b85ba3fb2%7emv2.png",FR | FM43
 https://fm43.ice.infomaniak.ch/fm43-64.aac
+#EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | Folk57
+https://manager11.streamradio.fr:2795/stream?x=1789983354990
 #EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | forever la radio
 https://stream.rcs.revma.com/x5m14dystk3vv
 #EXTINF:-1 group-title="France" tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/forum/images/favicon.vnd.microsoft.icon",FR | Forum
@@ -23840,8 +23846,6 @@ http://proradio.gr:8004/brake
 https://sp3.streams.ovh/8046/stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://sp3.streams.ovh/cp/widgets/player/single/images/mp3_cover2.jpg",GR | Bravo FM 89.6
 https://sp3.streams.ovh/8046/stream
-#EXTINF:-1 group-title="Greece" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GR | burradio
-https://radio.garden/listen/burradio/NUKLOk-K
 #EXTINF:-1 group-title="Greece" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GR | bwin ΣΠΟΡ FM 94 6
 https://sportfm.live24.gr/sportfm7712
 #EXTINF:-1 group-title="Greece" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GR | Cafe 102.4
@@ -25152,6 +25156,8 @@ https://neos.win:37878/stream?type=.mp3?ver=325606
 https://neos.win:48720/stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://resources.live24.gr/resources/images/stations/1974e656-87cc-436f-bf0e-c56d2460e7ee.png",GR | Notes 106
 https://solid33.streamupsolutions.com/proxy/evllufwn?mp=//stream
+#EXTINF:-1 group-title="Greece" tvg-logo="https://notes96.gr/favicon/favicon.svg",GR | Notes 96
+https://s1.parapolitikaradio.gr:8010/notes96
 #EXTINF:-1 group-title="Grenada" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GD | Boss FM 104.1-104.9 - Grenada
 https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1
 #EXTINF:-1 group-title="Grenada" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GD | Boss FM Grenada
@@ -31428,6 +31434,8 @@ http://onair15.xdevel.com:8342/;
 https://streamsrv2.nets-sr.com:8004/stream
 #EXTINF:-1 group-title="Italy" tvg-logo="https://radioarc.it/favicon.ico",IT | Radio A.R.C.
 https://arclibrary.grausof.it/stream
+#EXTINF:-1 group-title="Italy" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",IT | Radio Abruzzo
+https://www.abruzzo.fm/#
 #EXTINF:-1 group-title="Italy" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",IT | Radio Activity
 http://nr9.newradio.it:9648/stream
 #EXTINF:-1 group-title="Italy" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",IT | Radio Adige
@@ -32875,7 +32883,7 @@ https://dahab.ice.infomaniak.ch/dahab-192.mp3
 #EXTINF:-1 group-title="Jordan" tvg-logo="https://www.jrtv.gov.jo/favicon.ico",JO | Radio Jordan 96.3
 https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8
 #EXTINF:-1 group-title="Jordan" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",JO | Watar Fm
-https://watar.fm/ar/
+https://mytuner-radio.com/radio/watar-fm-444943/
 #EXTINF:-1 group-title="Jordan" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",JO | Yarmouk University FM
 https://yufm.yu.edu.jo/broadwave.mp3
 #EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://beufm.kz/template/logo_white.png",KZ | ((beu))
@@ -36746,6 +36754,8 @@ https://cdn.live.easybroadcast.io/live/radio_nationale/chunks.m3u8?token=sqAP6uh
 https://stream.zeno.fm/fy8achbq97zuv
 #EXTINF:-1 group-title="Morocco" tvg-logo="https://radiolive.ma/logos/u-radio.png",MA | U RADIO
 https://uradio-aac.ice.infomaniak.ch/uradio.aac
+#EXTINF:-1 group-title="Morocco" tvg-logo="https://xglite.blogspot.com",MA | XGlite Radio FM Web Station
+http://95.154.195.3:33087/
 #EXTINF:-1 group-title="Morocco" tvg-logo="https://static.yabiladi.com/images_new/logo_2_yab.png?4",MA | Yabiladi Azawan Amazigh
 https://radio.yabiladi.com:9002/;stream.mp3
 #EXTINF:-1 group-title="Morocco" tvg-logo="https://static.yabiladi.com/images_new/logo_2_yab.png?4",MA | Yabiladi Chaabi Maroc
@@ -37630,6 +37640,8 @@ https://discoclassicradio.nl/stream?1778855762213
 https://discoclassicradio.nl/stream?1774627917867
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://www.discofactory.fm/uploads/1/4/3/0/143020101/logo-vierkant-zwart_orig.png",NL | Disco Factory
 https://s5.radio.co/s253044a7a/listen
+#EXTINF:-1 group-title="The Netherlands" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",NL | Disco Factory FM
+https://stream.discofactory.fm/listen/discofactory/radio.mp3
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://www.dizgoradio.fm/wp-content/uploads/2022/07/dizgo-radio-logo1.png",NL | Dizgo Radio
 http://mediaserv30.live-streams.nl:8079/stream
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",NL | dizgo radio fm
@@ -38610,8 +38622,6 @@ https://server-67.stream-server.nl:2000/l/?listen.Oude_Piratenhits.pls
 http://streams.pinguinradio.com/PinguinRadio320.mp3
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",NL | Pepperbox
 https://stream.pepperboxradio.nl:8000/radio.mp3
-#EXTINF:-1 group-title="The Netherlands" tvg-logo="https://pepperboxradio.nl/webplayer.php",NL | Pepperbox radio
-https://pepperboxradio.nl/
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://www.perfectmoods.com/apple-touch-icon.png",NL | PerfectMoods
 https://play.radioking.io/perfectmoods/104227
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://perfectmoods.nl/favicon.ico",NL | PerfectMoods – 24/7 Quality Lounge
@@ -39472,6 +39482,8 @@ http://radio.shoutcastmedia.net:8302/
 https://domimedia.org/stream
 #EXTINF:-1 group-title="Nigeria" tvg-logo="https://www.dciradio.org/favicon.ico",NG | Dream Center Internet Radio
 https://admin.dciradio.org/radio/8010/radio.mp3
+#EXTINF:-1 group-title="Nigeria" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",NG | EAGLE 7 SPORTS RADIO 103.7 FM
+https://eagle7fm-atunwadigital.streamguys1.com/eagle7fm
 #EXTINF:-1 group-title="Nigeria" tvg-logo="https://esanbinoculars.com/wp-content/uploads/2020/11/cropped-esanbinoculars_reallogo1.png",NG | Esan binoculars
 https://fm.imediaport.com/ebradio
 #EXTINF:-1 group-title="Nigeria" tvg-logo="https://fadfm.com/wp-content/uploads/2023/02/fadfm_logo-removebg-preview.png",NG | FAD FM
@@ -40350,6 +40362,8 @@ http://panel.innovatestream.pe:7058/;
 https://stream.zeno.fm/tu63bf6g31zuv
 #EXTINF:-1 group-title="Peru" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PE | Baladitas
 http://stream.zeno.fm/hf2gsfm1mp8uv?1649692370879
+#EXTINF:-1 group-title="Peru" tvg-logo="https://radiotvbendiciondivina.com/wp-content/uploads/2026/03/cropped-LOGO.png",PE | Bendición Divina
+https://sp.dattavolt.com:7073/stream
 #EXTINF:-1 group-title="Peru" tvg-logo="https://bethel-fm.s3.us-east-1.amazonaws.com/web-assets/player/ICON%20BETHEL%20RADIO.png",PE | Bethel Radio
 https://alfa.betheltv.tv/radiobethel/1/icecast.audio
 #EXTINF:-1 group-title="Peru" tvg-logo="https://boleros.fmlima.com/img/apple-touch-icon.png",PE | Boleros Inolvidables (FMLima)
@@ -40648,6 +40662,8 @@ https://sp.oyotunstream.com:10979/;
 https://tupanel.info:2000/stream/radiojr/stream
 #EXTINF:-1 group-title="Peru" tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png",PE | Radio Karicia
 https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
+#EXTINF:-1 group-title="Peru" tvg-logo="https://www.radiokebuena.pe/panel/update/img/logo.webp",PE | Radio Kebuena
+https://panel.innovatestream.pe:10970/stream
 #EXTINF:-1 group-title="Peru" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_126.png",PE | Radio La Cheverísima - Utcubamba
 https://sp.onliveperu.com/8114/stream/;
 #EXTINF:-1 group-title="Peru" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/037/la-gloria-de-dios-estereo.9476fd7d.jpg",PE | Radio La Gloria Es De Dios
@@ -40802,8 +40818,12 @@ https://cloudstream2032.conectarhosting.com/8106/stream
 https://maximacenterdata.com/8086/stream
 #EXTINF:-1 group-title="Peru" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PE | Radio Urbana (Caraz - Ancash Peru)
 https://144.76.202.93:10905/
+#EXTINF:-1 group-title="Peru" tvg-logo="https://vmperu.myradioenvivo.com/imagenes/logo.png",PE | Radio Victor Music Perú
+https://radiostreaming.pro/8254/;
 #EXTINF:-1 group-title="Peru" tvg-logo="https://imgur.com/VKVlg1N.png",PE | Radio victor music Perú
 https://stream-149.zeno.fm/wymz9unt88quv?zs=j57_3aS2T--Zd_IslHw07A
+#EXTINF:-1 group-title="Peru" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqfYiDaMgWuoY7q7bzqeWBD96DDmAeqYsN6dGJGxb-USvsleWzvprkUIIsuRye9eyespZTxQoKlDBFOSixdloJA94bZW_JRZR7TAdXmAY9ba4O-jV3jpuJO8BZwrIB96acsldxocB2Hxhi-71Y400alql7SGVQ2cM0EbgUPhJzbXVqT0svuH3gQyWqPQt/s1600/1000047340.webp",PE | Radio Vida
+https://dattavolt.com:7134/stream
 #EXTINF:-1 group-title="Peru" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PE | Radio Xtrema - Chachapoyas
 https://stream.zeno.fm/ktk1db7xywzuv
 #EXTINF:-1 group-title="Peru" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PE | Radio Yaraví
@@ -43660,6 +43680,8 @@ http://31.192.216.7:8000/radio_gra
 https://rs103-krk.rmfstream.pl/radio_gra
 #EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | Radio Gra Wroclaw
 http://rmfstream2.interia.pl:8000/radio_gra
+#EXTINF:-1 group-title="Poland" tvg-logo="https://gryfice.net/favicon.ico",PL | Radio Gryfice AI
+https://panel.radio.gryfice.net/listen/radio-gryfice/radio.mp3
 #EXTINF:-1 group-title="Poland" tvg-logo="https://radioguardian.panelradiowy.pl/images/logos/70355-91.png",PL | Radio Guardian
 https://s1.slotex.pl/shoutcast/7508/stream
 #EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | Radio Hit
@@ -44052,6 +44074,8 @@ http://s3.slotex.pl:7056/
 https://streaming.g-news.pl:8040/rzeszow
 #EXTINF:-1 group-title="Poland" tvg-logo="https://www.wix.com/favicon.ico",PL | Radio Safira
 http://stream12.hosterion.pl/stream/safira
+#EXTINF:-1 group-title="Poland" tvg-logo="https://radiosafira.eu/assets/logo-safira.png",PL | Radio Safira
+https://ec1.yesstreaming.net:2340/stream
 #EXTINF:-1 group-title="Poland" tvg-logo="https://www.wix.com/favicon.ico",PL | Radio Safira
 https://stream12.hosterion.pl/stream/safira
 #EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | Radio Safira Kanoe
@@ -44138,10 +44162,6 @@ https://top80.pl:8000/listen.mp3
 https://top80.pl:8000/listen.mp3
 #EXTINF:-1 group-title="Poland" tvg-logo="https://radiotpi.pl/wp-content/uploads/2020/04/logo_radio_tpi_rgb_small.jpg",PL | Radio TPI
 https://s1.slotex.pl/shoutcast/7632/stream
-#EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | Radio Trojka
-https://trojka.polskieradio.pl/
-#EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | Radio Trojka
-https://onlineradiobox.com/pl/trojka/?cs=pl.trojka&played=1&lang=de
 #EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | radio trojka
 http://stream3.polskieradio.pl:8954/;.mp3
 #EXTINF:-1 group-title="Poland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PL | Radio Trojka 3
@@ -45748,6 +45768,8 @@ https://asculta.ascultatare.ro/8034/stream
 https://stream.zeno.fm/oirflygdheauv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/ZxpIffJCQXRQu8YC2T31s7DXW7tKdodPl58_snUyhHI/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FoYW51aWdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3dpdmZydWdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY0Mzc0NTk1ODAwMA.webp",RO | IM-AQUAFM BV
 https://stream.zeno.fm/4yyxk47ffv8uv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ritsatv.ru/files/poster/medium/900491.webp",RO | IMPACT TV DANCE
+https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 group-title="Romania" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/118696.v13.png",RO | Interpretul Buzău FM -Buzău
 http://interpretul.radiofolclorbuzaufm.ro:8910/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RO | Itsy Bitsy
@@ -45932,6 +45954,8 @@ http://edge126.rdsnet.ro:84/profm/music-fm.mp3
 https://stream.zeno.fm/s4mhpucr5tzuv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RO | Napoca FM
 https://streaming.napocalive.ro/napoca-fm
+#EXTINF:-1 group-title="Romania" tvg-logo="https://napocafm.ro/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-16-at-15.39.52-1024x576.jpeg",RO | Napoca Fm - Spirit of Cluj
+https://nfm-s1.bit-ns.cloud/stream1
 #EXTINF:-1 group-title="Romania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RO | Nationa FM
 http://www.nationalfm.ro/assets/national-fm.pls
 #EXTINF:-1 group-title="Romania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RO | Național FM
@@ -46864,6 +46888,8 @@ https://mscp1.gazduireradio.ro:1360/stream
 https://mscp1.gazduireradio.ro:1220/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RO | RadioReintregirea Alba Iulia
 https://reintregirea.ro/sites/default/files/tema/radio.pls
+#EXTINF:-1 group-title="Romania" tvg-logo="https://www.radioson.ro/images/banner3.png",RO | RadioSON
+http://89.33.243.3:8000/
 #EXTINF:-1 group-title="Romania" tvg-logo="https://online-radio.eu/logo/144/144419.jpg",RO | RadioTrandafirulRoșul
 https://stream.zeno.fm/46mdd8ebdchvv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://radiorfm.ro/wp-content/uploads/2023/05/favicon.png",RO | Realitatea FM
@@ -47178,12 +47204,6 @@ https://media2.streambrothers.com:8248/stream
 http://5.2.208.222:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",RO | Tequila România -Radio 100% RO Romania
 http://romaneasca.radiotequila.ro:8989/
-#EXTINF:-1 group-title="Romania" tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",RO | Tequila România -Radio Dance
-https://dance.radiotequila.ro/7000/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",RO | Tequila România -Radio Hip-Hop
-http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",RO | Tequila România -Radio Manele
-http://asculta.radiotequila.ro:7000/
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png",RU | Radio Record - Russian Gold
 https://radiorecord.hostingradio.ru/russiangold96.aacp
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="http://liveam.tv/img/2494.jpg",RU | Европа Плюс
@@ -47620,6 +47640,8 @@ http://79.120.39.202:8002/darkdubstep
 http://79.111.119.111:8000/darkpsytrance
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2qgTebsFokg27ExH30o-egUECArAT0UrtfDsPX8pv1fKbXTIjmXSqAVLsmr9Q0wFwvc&usqp=CAU",RU | Caprice Radio - Forest Psy
 http://213.141.131.10:8002/forestpsytrance
+#EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RU | Caprice Radio avant garde jazz
+http://radcap.ru/avantgardejazz.html
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RU | Caprise Eurodance
 http://79.120.39.202:9003/
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://images.boosty.to/user/43168979/avatar?change_time=1767348826&croped=1&mh=160&mw=160",RU | CASPIAN RADIO BOSS
@@ -49050,8 +49072,6 @@ http://213.141.131.10:8004/balearichouse
 http://79.120.39.202:8000/balkan
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RU | Radio Caprice - Ballroom Dance
 http://79.111.14.76:9089/
-#EXTINF:-1 group-title="The Russian Federation" tvg-logo="http://radcap.ru/stylegraf/baroque2.jpg",RU | Radio Caprice - Baroque
-http://79.111.14.76:8000/baroque
 #EXTINF:-1 group-title="Rwanda" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RW | 90.7 Magic FM
 http://listen.rba.co.rw:8080/;
 #EXTINF:-1 group-title="Rwanda" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RW | Bachwezi radio
@@ -49758,6 +49778,8 @@ http://212.200.230.50:1935/oradio/oradio/oradio/playlist.m3u8
 https://az-de-01.worldradiobeat.com/public/originalfastradio/playlist.pls
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://az-de-01.worldradiobeat.com/static/uploads/browser_icon/192.1732244547.png",RS | Original Fast Radio
 https://az-de-01.worldradiobeat.com:8000/live
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://pannonrtv.com/sites/default/files/inline-images/pannonradioujlogo1-01.jpg",RS | Pannon Rádió
+http://stream2.nmih.hu:4120/live.mp3
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RS | Pannon Rádió
 http://breddstream.unrealhosting.hu:4120/;
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://pinkradio.rs/images/logo.png",RS | Pink Radio
@@ -49914,8 +49936,6 @@ https://stream.zeno.fm/mhuilnb3yoxuv
 https://mars.streamerr.co/8280/stream
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://www.radioexpert.net/radio-logo/srbija/radio-kolubara-lajkovac-213-lajkovac-srbija-320.jpg",RS | Radio Kolubara Lajkovac
 https://a1.asurahosting.com:9130/radio.mp3
-#EXTINF:-1 group-title="Serbia" tvg-logo="https://rtk.co.rs/wp-content/uploads/2017/09/cropped-cropped-RTK-logo.png",RS | Radio Kragujevac
-https://radio.dukahosting.com/8154
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://radio-krajina019.com/favicon.ico",RS | Radio Krajina 019
 https://cmr-hosting.com:7021/;
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://raw.githubusercontent.com/nikolaign/dckrovlogos/main/forest_rk2.png",RS | RADIO KROV
@@ -50214,6 +50234,8 @@ http://stream.radiojar.com/4qawu2xta2zuv.mp3
 http://onair.superfm.rs/superfm.mp3
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RS | Super FM Beograd
 https://onair.superfm.rs/superfm.mp3
+#EXTINF:-1 group-title="Serbia" tvg-logo="https://pannonrtv.com/sites/default/files/2019-08/szabadkaimagyarradio-szmr-logo.jpg",RS | Szabadkai Magyar Rádió
+http://stream.nmih.hu:4110/live.mp3
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RS | Szabadkai Magyar Rádió
 http://breddstream.unrealhosting.hu:4110/;
 #EXTINF:-1 group-title="Serbia" tvg-logo="https://tdiradio.com/wp-content/uploads/2022/05/TDI-crna-Logo-png-e1647953245156.png",RS | TDI BEZ REKLAMA
@@ -51606,6 +51628,10 @@ http://topradio.us:8033/live
 https://mars.streamerr.co/8066/stream
 #EXTINF:-1 group-title="Spain" tvg-logo="https://azulfm.com.es/azulfmlogo-800.jpg",ES | Azul FM Murcia
 https://azura5.emisiononline.es:8000/azulfm986
+#EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Babyradio España
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC34_SC
+#EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Babyradio Latinoamérica
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC33_SC
 #EXTINF:-1 group-title="Spain" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ES | Bakala Radio
 https://c14.radioboss.fm:8418/stream
 #EXTINF:-1 group-title="Spain" tvg-logo="https://bakanosfm.com/wp-content/uploads/2021/12/BAKANOSFM-logo-finalpropuestas-collection-color-04.png.webp",ES | Bakanos FM 97.0 - 97.1
@@ -53252,10 +53278,6 @@ http://www.rkmradio.com:8000/stream/4/
 https://eu1.lhdserver.es:8037/stream
 #EXTINF:-1 group-title="Spain" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109189.v2.png",ES | Radio España
 https://stream.zeno.fm/7ywx2u45vv8uv
-#EXTINF:-1 group-title="Spain" tvg-logo="https://myradioonline.es/public/uploads/radio_img/radio-espana/fb_cover.jpg",ES | Radio España - Directo
-http://stream.zeno.fm/ocinyyji4rntv
-#EXTINF:-1 group-title="Spain" tvg-logo="https://pbs.twimg.com/media/GRzqumtWoAAYVNc?format=png&name=small",ES | Radio Esperantia
-https://radios.solumedia.com/6526/stream
 #EXTINF:-1 group-title="Sri Lanka" tvg-logo="https://tamilhdradio.com/images/stations/1727742750.webp",LK | Anow Radio Hd+ Tamil
 https://onair.punnagairadio.com/anowradiohd/stream
 #EXTINF:-1 group-title="Sri Lanka" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",LK | bestcoast.fm
@@ -53708,8 +53730,6 @@ http://62.209.164.60:8000/mp128.mp3
 https://streaming.943.se/radio88dans
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://radio943.se/Logotype.png",SE | Radio 94 3
 https://stream.radio943.se/stream
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | Radio Aftonbladet
-https://www.aftonbladet.se/podcasts/episode/396373
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://impro.usercontent.one/appid/oneComWsb/domain/radiobastad.se/media/radiobastad.se/onewebmedia/256742-314242-gh757dh3xq.png?etag=%2215a98-64edeed2%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=576%2B576&extract=0%2B0%2B576%2B544",SE | Radio Båstad
 https://streams.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | Radio bubb.la
@@ -53718,12 +53738,6 @@ http://live.radio.bubb.la/stream.mp3
 https://stream.zeno.fm/c6ufpty9w1ctv
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | Radio Gbg Sevdah
 https://stream.radiogbg.se:8050/relay4
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | Radio Gold Sweden
-http://radiogold.se/
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | Radio Gold Sweden
-https://www.radiogold.se/lyssna/radiogold953
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | Radio Gold Sweden
-https://www.radiogold.se/lyssna/
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",SE | Radio Gold Sweden
 https://streaming.943.se/radiogold
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://www.radiohaninge.se/images/logo/rhdlogo01.png",SE | Radio Haninge
@@ -53842,8 +53856,6 @@ https://live1.sr.se/p2-flac
 https://http-live.sr.se/p2-mp3-192
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",SE | SR P4 Jönköping
 https://http-live.sr.se/p4jonkoping-mp3-192
-#EXTINF:-1 group-title="Sweden" tvg-logo="https://www.sverigesradio.se/",SE | SR P4 Jönköping
-https://live1.sr.se/p4jkpg-aac-320%20(AAC-LC,%20320%20kbps)
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/SR_P4_logo.svg?utm_source=sv.wikipedia.org&utm_campaign=index&utm_content=original",SE | SR P4 Jönköping
 https://live1.sr.se/p4jkpg-aac-320
 #EXTINF:-1 group-title="Sweden" tvg-logo="https://sverigesradio.se/dist/favicon-32x32.png",SE | SR P4 Kronoberg
@@ -54438,8 +54450,6 @@ http://live9.avf.ch:8000/globalfmdabge
 https://ktfm.ice.infomaniak.ch/ktfm-high.mp3
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://image.radioking.io/radios/181657/logo/098b1c15-74cf-4638-b264-517fb9b06eac.jpeg",CH | La Radio du bord de l’eau
 https://listen.radioking.com/radio/181657/stream/223420
-#EXTINF:-1 group-title="Switzerland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CH | Latina Hits Mix
-http://kenaparc3.wixsite.com/latinamix
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://horizons-cdn.hostinger.com/6fc7f52e-1444-494c-bd09-fbd1e898c6de/d660e9f52cb5da0a7ea1ba0734ff1cc1.png",CH | LeMixx Radio
 http://maxxima.mine.nu/lemixx
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png",CH | LFM
@@ -54704,6 +54714,8 @@ https://s5.radio.co/seeece1f6b/listen
 https://login.streamplus.de/app.php/streamserver/public/31677.m3u
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CH | Radio Onyx
 http://nr4.newradio.it:9432/listen.pls
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CH | Radio Orbital ch
+http://orbital.ice.infomaniak.ch/orbital.mp3
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://www.radioouistiti.ch/wp-content/uploads/2024/11/radioouistiti_logo.png",CH | RADIO OUISTITI
 https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3?_=1
 #EXTINF:-1 group-title="Switzerland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",CH | Radio Ouistiti
@@ -55740,6 +55752,8 @@ https://stream.zeno.fm/zhhawbqoikatv
 https://mungukwanza.radioca.st/;
 #EXTINF:-1 group-title="United Republic Of Tanzania" tvg-logo="https://mungukwanza.com/wp-content/uploads/2023/12/cropped-Mungu-Kwanza-Logo.png",TZ | Mungu Kwanza Radio
 https://mungukwanza.radioca.st/;
+#EXTINF:-1 group-title="United Republic Of Tanzania" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPhLsuhT-haWZX7AcmFstsEjrSDfHZO6Xtaumqr1dWUPP72YsMnBPm8S1XPS3g5y_F1y5eEGcvU-T5DaugcQ8erYUiY1J-oyl6QeQLiF7CT-X1Z6nst7qeQ66Kgs0ZGzv0QqX1hc35V4XFQv3Xza5s2S3phz4rNzMMKX4xek1y5SaTbRLopqsyGTIf1lE/s1254/63262.png",TZ | Nehestrat FM
+https://eu8.fastcast4u.com/proxy/nehestratfm?mp=/1
 #EXTINF:-1 group-title="United Republic Of Tanzania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",TZ | Nuru FM
 https://radiotadio.co.tz/nuru-fm-stream
 #EXTINF:-1 group-title="United Republic Of Tanzania" tvg-logo="https://radiokwizera.co.tz/wp-content/uploads/2026/02/cropped-RadioKwizeraLogo.png",TZ | Radio Kwizera
@@ -55918,10 +55932,18 @@ http://27.254.142.208:8300/;
 https://cast.requestradio.in.th:850//stream/3
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",TH | RequestRadio Inter
 https://cast.requestradio.in.th:840//stream/3
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://requestradio.in.th/inter/wp-content/uploads/2016/07/icon.png",TH | RequestRadio Inter (Alt)
+https://ozone2.javmemory.com/Inter.mp3
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",TH | requestradio String
 https://cast.requestradio.in.th:2199/tunein/shoutcast1.pls
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://requestradio.in.th/wp-content/uploads/2016/07/icon.png",TH | RequestRadio String (Alt)
+https://ozone2.javmemory.com/Music.mp3
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://requestradio.in.th/looktung/wp-content/uploads/2017/10/icon.png",TH | RequestRadio ลูกทุ่ง (Alt)
+https://ozone2.javmemory.com/Looktung.mp3
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://www.requestradio.in.th/favicon.ico",TH | RequestRadio เพื่อชีวิต
 https://cast.requestradio.in.th:830/stream/
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://requestradio.in.th/forlife/wp-content/uploads/2016/07/icon.png",TH | RequestRadio เพื่อชีวิต (Alt)
+https://ozone2.javmemory.com/Forlife.mp3
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://www.requestradio.in.th/looktung/wp-content/uploads/2017/10/cropped-icon-150x150.png",TH | requestradio/looktung/
 http://27.254.142.208:8300/
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://smoothfm.mcot.net/wp-content/uploads/2024/03/94.74.118.39-1055-logo.png",TH | Smooth 105.5 (RStream)
@@ -60756,6 +60778,10 @@ https://carina.streamerr.co/stream/abcoldiesradio
 http://edge-bauerabsolute-05-gos2.sharp-stream.com/absoluteclassicrockhigh.aac?aw_0_1st.skey=1787322611&aw_0_1st.playerid=BMUK_RPi
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://www.radioportal.ecatolico.com/images/stations/absoluteradio.webp",GB | Absolute Radio
 http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20#EXTINF:0,Absolute%2080s
+#EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GB | Absolute Radio
+https://stream-ar.hellorayo.co.uk/absoluteradio.aac?direct=true&aw_0_1st.skey=1789938245&rp_source=1&aw_0_1st.playerid=BMUK_ukrp
+#EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://cdn.radoxo.com/images/gb/absolute-radio.webp?v=1789938245",GB | Absolute Radio
+https://media.bauerradio.com/image/upload/c_crop,g_custom/v1700838171/brand_manager/stations/zfth9b2mzshyqiyuzxia.jpg
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://radioplayer.planetradio.co.uk/assets/favicon.png",GB | Absolute Radio 10s
 https://stream-ar.hellorayo.co.uk/absolute10s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~&=&&___cb=850509090209086
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="http://www.radioplayeruk.com/img/logs/absoluteradio80s.png",GB | Absolute Radio 80s
@@ -62358,12 +62384,6 @@ https://eilo.org/getm3u.php?m3u=hard
 https://s3.radio.co/s1f74e2763/listen
 #EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GB | Harmony Radio
 http://stream3.themediasite.co.uk:8244/stream
-#EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://www.harrogatehospitalradio.org.uk/api/image/66c0de7f-e2df-40e8-bdb7-84a1cef8ede6.png?g=center&w=1000",GB | Harrogate Hospital Radio
-http://uksoutha.streaming.broadcast.radio:26750/harrogatehospitalradio
-#EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://hastingsrock.co.uk/images/HR%20Website%20Hero%20logo.png",GB | Hastings Rock Radio
-http://cloud.hastingsrock.co.uk:8000/mp3
-#EXTINF:-1 group-title="The United Kingdom Of Great Britain And Northern Ireland" tvg-logo="https://hbsaradio.com/wp-content/themes/topofthehour/images/logo.png",GB | HBSA Hospital Radio
-https://solid24.streamupsolutions.com/proxy/zzjcamth?mp=/stream
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",US | LOVE FM: All you need is Love
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",US | Hard Rock Radio FM
@@ -63736,8 +63756,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGFM.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOBQFMAAC.aac
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://express-images.franklymedia.com/8949/sites/4/2022/11/22153124/wbzdfavicon64.png",US | 93.3 WBZD Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBZDFMAAC.aac
-#EXTINF:-1 group-title="The United States Of America" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",US | 93.3 WMMR
-https://26183.live.streamtheworld.com/WMMRFMAACIHR.aac
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://chetfm.com/favicon.ico",US | 93.5 Chet FM
 https://ice23.securenetsystems.net/KDJF
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://www.maxrocks.net/favicon.ico",US | 93.5 MAX - WMXQ - Maximum Classic Rock
@@ -63768,6 +63786,8 @@ https://stream.revma.ihrhls.com/zc853/hls.m3u8
 https://stream.revma.ihrhls.com/zc853/hls.m3u8
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://i.iheart.com/v3/re/assets.brands/69654f871a69f85e3a14f06b?ops=gravity(%22center%22),contain(360,360)&quality=80",US | 93.9 LITE FM
 https://stream.revma.ihrhls.com/zc853
+#EXTINF:-1 group-title="The United States Of America" tvg-logo="https://www.939kia.com/",US | 93.9 the country moose k I a i fm
+https://www.connmediaplayer.com/939kia
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",US | 93.9 WLIT Lite FM
 https://cloud.revma.ihrhls.com/zc853?rj-org=n02b-e2&rj-ttl=5&rj-tok=AAABmp0u27AAed5U3BzGRhqpCg
 #EXTINF:-1 group-title="The United States Of America" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",US | 93.9 WLIT-FM LITE FM
@@ -64732,6 +64752,8 @@ https://stream.zeno.fm/mvu8ut5f2k0uv
 https://streamingned.com:7044/stream
 #EXTINF:-1 group-title="Bolivarian Republic Of Venezuela" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",VE | Eli.T. Stereo 104.3 Fm
 https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4772&type=s1
+#EXTINF:-1 group-title="Bolivarian Republic Of Venezuela" tvg-logo="https://www.costadelsolfm.org/wp-content/uploads/2023/07/Logo-Costa-del-Sol-720x378-1.jpg",VE | Emisora Costa del Sol 93.1 FM
+https://a12.asurahosting.com/listen/sol/radio.mp3
 #EXTINF:-1 group-title="Bolivarian Republic Of Venezuela" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",VE | Espacio Network
 https://acp2.lorini.net:28050/stream
 #EXTINF:-1 group-title="Bolivarian Republic Of Venezuela" tvg-logo="https://circuitoradialrmt.com/wp-content/uploads/2024/02/Espectaculo-100.7-FM-768x531.png",VE | Espectaculo 100.7 FM
@@ -65146,3 +65168,5 @@ https://listen.radioking.com/radio/873191/stream/943246
 https://eu4.fastcast4u.com/proxy/lancguma?mp=/1
 #EXTINF:-1 group-title="Zimbabwe" tvg-logo="https://www.starfm.co.zw/favicon.ico",ZW | Star FM 89.7
 https://edge.iono.fm/xice/159_medium.aac
+#EXTINF:-1 group-title="Zimbabwe" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",ZW | ZifmStereo
+https://zifmstereo.co.zw/
