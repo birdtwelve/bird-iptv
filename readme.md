@@ -1,6 +1,6 @@
-## Base Log @ 2026-09-24 13:44 UTC
+## Base Log @ 2026-09-24 18:35 UTC
 
-### ✅ Working Streams: 84<br>❌ Dead Streams: 391
+### ✅ Working Streams: 83<br>❌ Dead Streams: 392
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -14,7 +14,7 @@
 | PBS Genealogy | HTTP Error (404) | `https://jmp2.uk/rok-3ec371d7730f16b07a55ede8a4472261.m3u8` |
 | PBS Nature | HTTP Error (404) | `https://jmp2.uk/rok-32fa723f285fc238ae786634f051f972.m3u8` |
 | PBS Retro | HTTP Error (404) | `https://jmp2.uk/rok-34335ef32c02519d897664a78767cc59.m3u8` |
-| PBS Travel | HTTP Error (404) | `https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8` |
+| PBS Travel | HTTP Error (504) | `https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
