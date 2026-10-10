@@ -2709,6 +2709,8 @@ http://play.global.audio/cityhi.aac
 https://play.global.audio/city.opus
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://classicfm.bg/static/bg/microsites/classicfm/img/logo_header.png",BG | Classic FM
 https://cdn.bweb.bg/radio/classic-fm.mp3
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",BG | Classic FM Bulgaria
+https://classicfm.bg/static/bg/microsites/classicfm/img/play.svg
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",BG | Coda Radio
 https://radio.jump.bg/proxy/feed82?mp=/coda
 #EXTINF:-1 group-title="Bulgaria" tvg-logo="https://danpenradio.net/wp-content/uploads/2024/07/cropped-7-192x192.png",BG | DanPen Radio
@@ -6445,6 +6447,8 @@ https://radio6.pro-fhi.net/live/Cave%20Carli%20Radio
 http://stream.rcs.revma.com/q90fb3dwnwzuv.mp3
 #EXTINF:-1 group-title="France" tvg-logo="http://nouveausite.cetaradio.fr/cetawp/wp-content/uploads/2026/05/fond-cacr253-1536x864.png",FR | CETA Radio
 http://manager5.streamradio.fr:2000/stream
+#EXTINF:-1 group-title="France" tvg-logo="https://files.catbox.moe/0a6qmu.png",FR | CH16 · Channel Sixteen
+https://stream.channelsixteen.com/listen/ch16/radio.mp3
 #EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | Champagne FM
 http://reims.ice.infomaniak.ch/reims-64.aac
 #EXTINF:-1 group-title="France" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",FR | Chansons oubliees ou presque
@@ -7467,8 +7471,6 @@ https://icecast.radiofrance.fr/franceculture-hifi.aac
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1 group-title="France" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-0cfbd6d4.png",FR | France Info
 https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
-#EXTINF:-1 group-title="France" tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png",FR | France Info
-http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
 #EXTINF:-1 group-title="Georgia" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/43916.png",GE | Hereti FM
 http://iis.ge:8000/hereti.mp3
 #EXTINF:-1 group-title="Georgia" tvg-logo="https://housemusic.com",GE | House music
@@ -8013,6 +8015,8 @@ https://0nlineradio.radioho.st/technolovers-frenchcore?ref=rb26
 https://0nlineradio.radioho.st/technolovers-hypertechno?ref=radio-browser26
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.ibb.co/zVqzn51m/0-R-Karneval.png",DE | * KARNEVAL || Fasching  Fastnacht  Alaaf  Helau  Jeck  Jeckenparty  Karnevalsparty  Schunkeln  Stimmungsmusik  Feierlaune  Gute-Laune-Hits  Mitsinghits  Kölsche Hits  Karnevalshits  Rosenmontag  Weiberfastnacht  Straßenkarneval  Kostümparty  Narrensession  Büttenrede  Prunksitzung  Après-Ski  Ballermann  Schlagerparty  Partyklassiker  Festzeltstimmung  Tanzparty  Konfetti  Ausnahmezustand
 https://karneval-high.rautemusik.fm/stream.mp3?ref=rb26
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.ibb.co/Qj64JNTn/Technolovers-vorlage-2500px-2027.png",DE | * RAVE * YOUR NEXT RAVE STARTS HERE @ Technolovers.fm
+https://stream.technolovers.fm/technolovers-rave/mp3-192?ref=radiobrowser
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png",DE | * TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO
 https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
 #EXTINF:-1 group-title="Germany" tvg-logo="https://i.ibb.co/7twTMMLZ/VOLKSMUSIK.png",DE | * VOLKSMUSIK || Traditionell  Alpenmusik  Heimatklang  Blasmusik  Volksfest  Stimmung  Schlagernah  Mitsingen  Gute Laune  Regional  Brauchtum  Tanzmusik  Gesellig  Klassisch  Kult
@@ -9360,8 +9364,6 @@ http://stream.antenne.de/antenne-nrw-weihnachts-hits/stream/mp3
 https://stream.antenneostalgie.de/ostalgie/mp3-192/stream.antenneostalgie.de/
 #EXTINF:-1 group-title="Germany" tvg-logo="https://www.antenneostalgie.de/assets/images/logo.png",DE | antenne OSTALGIE
 https://stream.antenneostalgie.de/ostalgie/mp3-192/stream.antenneostalgie.de/play.pls
-#EXTINF:-1 group-title="Germany" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",DE | Antenne Ostalgie
-https://stream.antenneostalgie.de/ostalgie/mp3-192/stream.antenneostalgie.de
 #EXTINF:-1 group-title="Greece" tvg-logo="https://resources.live24.gr/resources/images/stations/4d1c85f9-6bfd-4121-98ec-6408b3b94ff6.jpg",GR | Alexandroupolis Dee Jay 94.8
 https://stream.myip.gr/proxy/deejay?mp=/stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://enaradio.gr/wp-content/uploads/2017/07/cropped-big_png-2-192x192.png",GR | ΕΝΑ 90.5
@@ -9860,6 +9862,8 @@ https://i2.streams.ovh:9470/stream
 https://stream.best973.gr/stream/1/;?type=http&nocache=1
 #EXTINF:-1 group-title="Greece" tvg-logo="https://bestgreek.info/logo-bestgreek-1200.jpg",GR | BEST GREEK
 https://stream.bestgreek.info/bestgreek
+#EXTINF:-1 group-title="Greece" tvg-logo="https://bestgreek.info/logo-bestgreek-512.png",GR | BEST GREEK 128k
+https://stream.bestgreek.info/bestgreek128
 #EXTINF:-1 group-title="Greece" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",GR | Best Radio
 http://best926live.mdc.akamaized.net/strmBest/userBest/chunks.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://www.atticaradios.gr/Content/ImagesDatabase/p/crop/both/be/beacb687958a453286a9bc7d07333915.svg?quality=85&404=default&v=4",GR | Best Radio 92.6
@@ -11238,8 +11242,6 @@ http://radio.streamings.gr:8007/stream
 https://solid55.streamupsolutions.com/proxy/lsdmuqhb?mp=/stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://mcr.streams.gr/users/multiradio/station/logo.jpg",GR | MyLaikos.gr
 http://mcr.streams.gr:10200/stream
-#EXTINF:-1 group-title="Greece" tvg-logo="https://nauagos.net/wp-content/uploads/2025/04/NAUAGOS.png",GR | Nauagos.net
-https://radio.streamings.gr/tunein/nauagos-stream.pls
 #EXTINF:-1 group-title="Hungary" tvg-logo="https://www.gyorplusz.hu/wp-content/themes/gyorplusz/static/images/favicons/apple-icon-144x144.png",HU | Győr+ Rádió
 https://stream.42netmedia.com:8443/sc_gyor1
 #EXTINF:-1 group-title="Hungary" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",HU | 103.9 rock
@@ -17168,8 +17170,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22_SC
 #EXTINF:-1 group-title="The Netherlands" tvg-logo="https://www.radio10.nl/favicon.ico",NL | Radio 10 60's & 70's Hits
 http://playerservices.streamtheworld.com/pls/TLPSTR18.pls
-#EXTINF:-1 group-title="The Netherlands" tvg-logo="https://www.radio10.nl/favicon.png",NL | Radio 10 60's & 70's Hits
-https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
 #EXTINF:-1 group-title="Republic Of North Macedonia" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231218_113106430.jpg?alt=media&token=b6f6cb27-4778-460d-b740-0860a30262a7",MK | =KECO=70s ROCK
 http://jfm1.hostingradio.ru:14536/rock70.mp3
 #EXTINF:-1 group-title="Republic Of North Macedonia" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",MK | =KECO=ROCK BALLADS
@@ -19408,10 +19408,14 @@ https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8
 https://radio.streemlion.com:4870/stream
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://www.wix.com/favicon.ico",PT | 4Drive Jazz
 http://radio.streemlion.com:1150/stream
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://cp-1.owh.radio.br/static/uploads/owh_s35225/album_art.1790617570.jpg",PT | 76 8 OCEANO PACIFICO
+https://cp-1.owh.radio.br/listen/owh_s35225/radio-mp3
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico",PT | 80'S RFM
 https://25343.live.streamtheworld.com/GR80SRFMAAC.aac
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",PT | 80ROCK
 http://rs2.ptservidor.com:8003/stream?type=.mp3
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://80rock.pt/wp-content/uploads/2020/02/logo.png",PT | 80ROCK.pt
+https://rs2.ptservidor.com:2199/proxy/febrites?mp=/stream
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico",PT | 90'S RFM
 https://25343.live.streamtheworld.com/RFM_90SAAC.aac
 #EXTINF:-1 group-title="Portugal" tvg-logo="http://www.radio94fm.pt/wp-content/themes/radio-94fm/assets/img/logo_final.png",PT | 94FM Leiria
@@ -21646,6 +21650,8 @@ https://stream.pcradio.ru/Modern_Talking-hi
 http://radiorot.ovh:8000/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://www.radiosalaj.ro/favicon.ico",RO | Radio Sălaj
 https://stream.radiosalaj.ro/listen/radio-salaj/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://radiosemiton.com/logo512.png",RO | Radio Semiton
+https://radiosemiton.com/radio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RO | Radio Sighet FM
 http://89.238.227.6:8390/%7CRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://forgejo.plainrock127.xyz/avatars/2a377b6b23e650e3ea78703c16d7de58f77e35b37951f39142bc5a2f8048fd60",RO | Radio Sky FM
@@ -22064,8 +22070,6 @@ https://mp3.radiostill.ro:8888/stream
 https://popular.radiostill.ro/8176/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://www.radiostres.com/templates/music-club/images/logo.png",RO | Stres Radio
 http://live.radiostres.com:8402/
-#EXTINF:-1 group-title="Romania" tvg-logo="https://imagizer.imageshack.com/img924/0/AaWTK8.png",RO | Sud Constanța
-http://asculta.radiosudconstanta.com:8750/stream
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png",RU | Radio Record - Russian Gold
 https://radiorecord.hostingradio.ru/russiangold96.aacp
 #EXTINF:-1 group-title="The Russian Federation" tvg-logo="http://liveam.tv/img/2494.jpg",RU | Европа Плюс
