@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-09 19:40 UTC
+## Base Log @ 2026-10-10 00:15 UTC
 
-### ✅ Working Streams: 57<br>❌ Dead Streams: 418
+### ✅ Working Streams: 58<br>❌ Dead Streams: 417
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -8,6 +8,7 @@
 | Animation+ | HTTP Error (404) | `https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8` |
 | DIJIT / Joy.Rebel | Connection timed out (000) | `https://rhine.webchnl.live/memfs/39c22a0a-ba5a-4cda-bb74-83108e8e3e69.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
+| FilmRise Horror | HTTP Error (404) | `https://jmp2.uk/rok-6a0629e467b5502c906136dadac290a0.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
