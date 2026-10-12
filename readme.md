@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-12 09:37 UTC
+## Base Log @ 2026-10-12 22:14 UTC
 
-### ✅ Working Streams: 59<br>❌ Dead Streams: 416
+### ✅ Working Streams: 51<br>❌ Dead Streams: 424
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -11,6 +11,7 @@
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | Funny AF | HTTP Error (403) | `https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
+| LOL! Network | HTTP Error (403) | `https://jmp2.uk/stvp-USBC1300009VM` |
 | More TV Drama | HTTP Error (403) | `https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8` |
 | More TV Sitcoms | HTTP Error (403) | `https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8` |
 | More True Crime | HTTP Error (403) | `https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8` |
