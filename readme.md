@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-15 18:32 UTC
+## Base Log @ 2026-10-15 23:13 UTC
 
-### ✅ Working Streams: 83<br>❌ Dead Streams: 392
+### ✅ Working Streams: 82<br>❌ Dead Streams: 393
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -51,7 +51,7 @@
 | Vevo '70s | HTTP Error (404) | `https://jmp2.uk/rok-e5dcad2b1c055d4d86a9f7bba9438da7.m3u8` |
 | Vevo '80s | HTTP Error (404) | `https://jmp2.uk/rok-fd8d765f98605129914b581147e7e8b2.m3u8` |
 | Vevo '90s | HTTP Error (404) | `https://jmp2.uk/rok-4c0772ef75e1565183843b37e91591f8.m3u8` |
-| Vevo 2K | Connection timed out (000) | `https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8` |
+| Vevo 2K | HTTP Error (404) | `https://jmp2.uk/rok-94759dbd58a65682bcc573932f725f46.m3u8` |
 | Vevo Country | HTTP Error (404) | `https://jmp2.uk/rok-1db9c603bb4e5d87b015f9963da1093e.m3u8` |
 | Vevo Hip-Hop | HTTP Error (404) | `https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8` |
 | Vevo Latino | HTTP Error (404) | `https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8` |
