@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-22 23:32 UTC
+## Base Log @ 2026-10-23 07:52 UTC
 
-### ✅ Working Streams: 84<br>❌ Dead Streams: 391
+### ✅ Working Streams: 86<br>❌ Dead Streams: 389
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -9,6 +9,7 @@
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
+| LOL! Network | HTTP Error (403) | `https://jmp2.uk/stvp-USBC1300009VM` |
 | PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
 | PBS Genealogy | HTTP Error (404) | `https://jmp2.uk/rok-3ec371d7730f16b07a55ede8a4472261.m3u8` |
 | PBS Nature | HTTP Error (404) | `https://jmp2.uk/rok-32fa723f285fc238ae786634f051f972.m3u8` |
