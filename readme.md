@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-23 18:39 UTC
+## Base Log @ 2026-10-23 23:21 UTC
 
-### ✅ Working Streams: 84<br>❌ Dead Streams: 391
+### ✅ Working Streams: 89<br>❌ Dead Streams: 386
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -16,7 +16,6 @@
 | PBS Travel | HTTP Error (404) | `https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
-| Pluto TV Crime | HTTP Error (500) | `https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8` |
 | Pluto TV Horror | HTTP Error (404) | `https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
