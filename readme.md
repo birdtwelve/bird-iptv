@@ -1,13 +1,12 @@
-## Base Log @ 2026-10-23 13:44 UTC
+## Base Log @ 2026-10-23 18:39 UTC
 
-### ✅ Working Streams: 85<br>❌ Dead Streams: 390
+### ✅ Working Streams: 84<br>❌ Dead Streams: 391
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
 | 9 Story Presents: Garfield and Friends | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1951733&extension=ts` |
 | Animation+ | HTTP Error (404) | `https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8` |
 | FilmRise Action | HTTP Error (404) | `https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8` |
-| FilmRise Películas Gratis | HTTP Error (404) | `https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8` |
 | FilmRise Sci-Fi | HTTP Error (404) | `https://jmp2.uk/rok-c423f0f050355a6fb8bcf7644af61852.m3u8` |
 | Homeful | HTTP Error (404) | `https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8` |
 | PBS Food | HTTP Error (404) | `https://jmp2.uk/rok-d8513011aa1c50aa9b08894f5576ad99.m3u8` |
@@ -17,7 +16,7 @@
 | PBS Travel | HTTP Error (404) | `https://jmp2.uk/rok-94598743eeb76f0dae3caf86ed026deb.m3u8` |
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
-| Pluto TV Drama | Unknown status (302) | `https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8` |
+| Pluto TV Crime | HTTP Error (500) | `https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8` |
 | Pluto TV Horror | HTTP Error (404) | `https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
