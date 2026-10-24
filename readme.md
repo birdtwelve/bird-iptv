@@ -1,6 +1,6 @@
-## Base Log @ 2026-10-24 12:53 UTC
+## Base Log @ 2026-10-24 17:34 UTC
 
-### ✅ Working Streams: 88<br>❌ Dead Streams: 387
+### ✅ Working Streams: 89<br>❌ Dead Streams: 386
 
 | Channel | Error (Code) | Link |
 | ------- | ------------ | ---- |
@@ -17,6 +17,7 @@
 | POP UP | HTTP Error (404) | `https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8` |
 | Pink Panther | Connection timed out (000) | `http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:76:27:B6&stream=1919984&extension=ts` |
 | Pluto TV Horror | HTTP Error (404) | `https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8` |
+| Pluto TV Kids | HTTP Error (500) | `https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8` |
 | SKY Sport 1 NZ | Connection timed out (000) | `https://a1xs.vip/700031` |
 | SKY Sport 2 NZ | Connection timed out (000) | `https://a1xs.vip/700032` |
 | SKY Sport 3 NZ | Connection timed out (000) | `https://a1xs.vip/700033` |
